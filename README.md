@@ -39,8 +39,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🤝 How to Reach Us
 
 
-- Email: your.email@example.com
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: kashif@kriztech.in
+- Twitter: [@YourTwitterHandle](https://twitter.com/altkriz)
 
 ## 🙌 Acknowledgments
 
