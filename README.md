@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 - Email: kashif@kriztech.in
-- Twitter: [@YourTwitterHandle](https://twitter.com/altkriz)
+- Twitter: [@altkriz](https://twitter.com/altkriz)
 
 ## 🙌 Acknowledgments
 
