@@ -1,6 +1,6 @@
 # KrizKart - Online Shopping Platform with Admin Panel
 
-![KrizKart Logo](https://krizkart-de607f90b343.herokuapp.com/assets/uploads/logo.png)
+![KrizKart Logo](https://kriztech.in/krizkart/assets/uploads/logo.png)
 
 KrizKart is an open-source eCommerce platform designed to provide a seamless online shopping experience. Built with PHP for the server-side logic and HTML, CSS, and JavaScript for the frontend, KrizKart offers a modern and responsive user interface.
 
@@ -20,7 +20,7 @@ We welcome contributions from developers of all skill levels. Whether you're int
 
 ### Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/KrizKart.git`
+1. Clone the repository: `git clone https://github.com/altkriz/KrizKart.git`
 2. Install dependencies and set up the database according to the provided instructions.
 3. Explore the codebase and start contributing.
 
@@ -30,7 +30,7 @@ Join us in building KrizKart into a powerful and versatile eCommerce solution. H
 
 ## 🌐 Demo
 
-Check out the live demo: [KrizKart Demo](https://krizkart-de607f90b343.herokuapp.com)
+Check out the live demo: [KrizKart Demo](https://kriztech.in/krizkart)
 
 ## 📝 License
 
